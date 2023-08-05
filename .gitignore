@@ -1,0 +1,13 @@
+
+zookeeper/distributed.systems/.idea/compiler.xml
+zookeeper/distributed.systems/.idea/encodings.xml
+zookeeper/distributed.systems/.idea/jarRepositories.xml
+zookeeper/distributed.systems/.idea/misc.xml
+zookeeper/distributed.systems/.idea/vcs.xml
+*.class
+zookeeper/distributed.systems/target/distributed.systems-1.0-SNAPSHOT-jar-with-dependencies.jar
+zookeeper/distributed.systems/target/distributed.systems-1.0-SNAPSHOT.jar
+zookeeper/distributed.systems/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+zookeeper/distributed.systems/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+zookeeper/distributed.systems/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+zookeeper/distributed.systems/target/maven-archiver/pom.properties
