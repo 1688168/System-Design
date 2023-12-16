@@ -8,19 +8,27 @@
 
 > [System Design Interview Prep Crash Course](https://www.educative.io/courses/system-design-interview-prep-crash-course)
 
+<hr>
+
 > [Become a Distributed Systems Professional](https://www.educative.io/path/become-a-distributed-systems-professional)
 
 > [Scalability & System Design for Developers](https://www.educative.io/path/scalability-system-design)
 
-> [DDIA]()
+> [DDIA]
+
+- [DDIA - Video1](https://www.youtube.com/playlist?list=PLLQIL8-pgJ92x-q-gU0SDwzdJrspzFjUL)
+- [DDIA - Video2](https://www.youtube.com/watch?v=8Xd1Nf1APmc)
+- [DDIA - Ch3 - Storage and Retrieval](https://www.youtube.com/watch?v=3sPtw_nEYZY&t=4s)
 
 # <span style="color:Green"> Training Class </span>
+
+> [System Design Interview Guide for Software Architecture](https://www.udemy.com/course/system-design-a-comprehensive-guide/learn/lecture/26965790#overview)
+
+<hr>
 
 > [MIT: Distributed System](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 
 > [Software Architecture & Design of Modern Large Scale Systems](https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/learn/lecture/29230070?start=24#overview)
-
-> [System Design Interview Guide for Software Architecture](https://www.udemy.com/course/system-design-a-comprehensive-guide/learn/lecture/26965790#overview)
 
 > [The Complete Cloud Computing Software Architecture Patterns](https://www.udemy.com/course/the-complete-cloud-computing-software-architecture-patterns/learn/lecture/30214306?start=0#overview)
 
