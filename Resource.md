@@ -16,6 +16,8 @@
 
 # <span style="color:Green"> Training Class </span>
 
+> [MIT: Distributed System](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
+
 > [Software Architecture & Design of Modern Large Scale Systems](https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/learn/lecture/29230070?start=24#overview)
 
 > [System Design Interview Guide for Software Architecture](https://www.udemy.com/course/system-design-a-comprehensive-guide/learn/lecture/26965790#overview)
