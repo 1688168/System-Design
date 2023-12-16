@@ -24,6 +24,8 @@
 
 > [System Design Interview Guide for Software Architecture](https://www.udemy.com/course/system-design-a-comprehensive-guide/learn/lecture/26965790#overview)
 
+- [[Course Material]](https://completedesigninterviewcourse.com/system-design-interview/)
+
 <hr>
 
 > [MIT: Distributed System](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
