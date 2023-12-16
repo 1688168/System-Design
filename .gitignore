@@ -20,3 +20,6 @@ zookeeper/distributed.systems/target/maven-archiver/pom.properties
 *.properties
 *.properties
 *.properties
+zookeeper/distributed.systems/pom.xml
+zookeeper/distributed.systems/src/main/resources/log4j.properties
+zookeeper/distributed.systems/target/classes/log4j.properties
