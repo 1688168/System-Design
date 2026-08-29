@@ -9,3 +9,6 @@
 * Fault Tolerance: The ability to keep operating correctly while a component is failing
     * Fault tolerance is usually one technique within resilience
     * continued correct operation despite specific faults 
+
+> Circuit breaker
+* The Circuit Breaker pattern prevents cascading failures by temporarily stopping requests to unhealthy services. Infinite retries can worsen outages. Restarting databases or permanently blocking users are poor operational strategies. This pattern is frequently discussed in system design interviews.
