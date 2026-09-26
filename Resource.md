@@ -1,6 +1,8 @@
 # <span style="color:Green"> Reading </span>
 
 > [Alex Xu - System Design](https://bytebytego.com/courses/system-design-interview/foreword)
+> Youtube
+* https://www.youtube.com/@hello_interview
 
 > [Deep Dive into System Design Interview](https://www.educative.io/path/deep-dive-into-system-design-interview)
 
